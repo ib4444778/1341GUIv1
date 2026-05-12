@@ -1,33 +1,23 @@
---[credits:
-scripting=Zukadiamond01 
-system=serv3r3RR0R 
-Co-Owner=ibay_executor/ib4ykuruto]
+--[[
+    =========================================================
+                        1341GUIv1
+    =========================================================
 
+    📜 Credits:
+    • Main Scripting  : Zukadiamond01
+    • System Core     : serv3r3RR0R
+    • Co-Owner        : ibay_executor / ib4ykuruto
 
+   🎮 supported games:
+     • petak umpet by adhjfa
+     • Cluck or hide 🐔 by sausagerate
+     - next game is coming soon 😁
 
+    =========================================================
+]]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ib4444778/1341GUIv1/refs/heads/main/obfuscated_script-1778586865980.lua.txt"))()
+pcall(function()
+    loadstring(game:HttpGet(
+        "https://raw.githubusercontent.com/ib4444778/1341GUIv1/refs/heads/main/obfuscated_script-1778586865980.lua.txt"
+    ))()
+end)
