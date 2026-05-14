@@ -18,6 +18,6 @@
 
 pcall(function()
     loadstring(game:HttpGet(
-        "https://raw.githubusercontent.com/ib4444778/1341GUIv1/refs/heads/main/output.lua.txt"
+        "https://raw.githubusercontent.com/ib4444778/Codec/refs/heads/main/obf_33Jc8tm23Rmg49eAu9MTii66UHCQ7qfW9Elzg9fFwPxNek8QLbQcgMfUIf9f2bPU.lua.txt?token=GHSAT0AAAAAAD4MPJ4PDUH4XTG6QJK5T3NQ2QFDLOQ"
     ))()
 end)
