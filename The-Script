@@ -18,6 +18,6 @@
 
 pcall(function()
     loadstring(game:HttpGet(
-        "https://raw.githubusercontent.com/ib4444778/1341GUIv1/refs/heads/main/obfuscated_script-1778586865980.lua.txt"
+        "https://raw.githubusercontent.com/ib4444778/1341GUIv1/refs/heads/main/output.lua.txt"
     ))()
 end)
